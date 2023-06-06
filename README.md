@@ -9,7 +9,7 @@ GD-Resume is a free & open source software tool designed to convert Google Drive
 * User-Friendly Interface: GD-Resume provides a straightforward and intuitive interface, making it easy for users to convert their Google Public Download Links without any technical expertise.  
   
 ## Getting Started  
-* Download the latest version from [releases](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest)  
+* Download the latest version from [releases](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest) or click [here](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest/download/google_drive_converter.exe)  
 * Simply run it.  
 * You can paste the public link in to the first box and hit 'generate' to create the new link.  
 * You can also copy the generated link using the 'copy to clipboard' button  
