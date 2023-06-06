@@ -1,7 +1,9 @@
 # GD-Resume
 
 GD-Resume is a free & open source software tool designed to convert Google Drive Public Links to Resumable Direct Links.  
-
+  
+<img src=https://raw.githubusercontent.com/Rushikesh-Malave-175/GD-Resume/main/Screenshot.png>
+  
 ## Features    
 * **Google Public Download Link Conversion**: GD-Resume takes Google Public Download Links as input and generates Resumable Direct links that can be easily shared with others.  
 * **Resumable Downloads**: With Resumable Direct links, users can pause and resume downloads, ensuring a seamless and uninterrupted downloading experience even for large files.  
