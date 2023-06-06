@@ -21,7 +21,7 @@ GD-Resume is a free & open source software tool designed to convert Google Drive
 [Rushikesh Malave](https://github.com/Rushikesh-Malave-175)  
 
 ## Contact and Support
-* For questions, suggestions, comments or discussions, please contact me via [Issues](https://github.com/Rushikesh-Malave-175/GD-Resume/issues) or [Discussions](https://github.com/Rushikesh-Malave-175/GD-Resume/discussions) 
+* For questions, suggestions, comments or discussions, please contact me via [Issues](https://github.com/Rushikesh-Malave-175/GD-Resume/issues) or [Discussions](https://github.com/Rushikesh-Malave-175/GD-Resume/discussions) or for any important or serious discussions you can mail me [here.](mailto:iamrm180@gmail.com) (Kindly do not spam)
 * Buy me a cup of coffee [here](https://www.buymeacoffee.com/rushikesh_m_175)
   
 ## Disclaimer
