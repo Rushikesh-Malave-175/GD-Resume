@@ -4,11 +4,11 @@ GD-Resume is a free & open source software tool designed to convert Google Drive
   
 <img src=https://raw.githubusercontent.com/Rushikesh-Malave-175/GD-Resume/main/Screenshot.png>
   
-## Features    
-* **Google Public Download Link Conversion**: GD-Resume takes Google Public Download Links as input and generates Resumable Direct links that can be easily shared with others.  
+## Features of the generated link    
 * **Resumable Downloads**: With Resumable Direct links, users can pause and resume downloads, ensuring a seamless and uninterrupted downloading experience even for large files.  
 * **Improved Download Speeds**: Resumable Direct links enable faster downloads by supporting multiple parallel connections, leading to optimized transfer rates.  
 * User-Friendly Interface: GD-Resume provides a straightforward and intuitive interface, making it easy for users to convert their Google Public Download Links without any technical expertise.  
+* Compatible with command line progams like **Aria2c, wget or curl** which require a **Direct link**
   
 ## Getting Started  
 * Download the latest version (.exe) from [releases](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest)  
@@ -16,6 +16,7 @@ GD-Resume is a free & open source software tool designed to convert Google Drive
 * You can paste the public link in to the first box and hit 'generate' to create the new link.  
 * You can also copy the generated link using the 'copy to clipboard' button  
 * You can also directly open the generated link in your browser
+* Do star this repo if you liked my application
   
 ## Authors  
 [Rushikesh Malave](https://github.com/Rushikesh-Malave-175)  
