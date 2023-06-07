@@ -1,6 +1,6 @@
 # GD-Resume
 
-GD-Resume is a free & open source software tool designed to convert Google Drive Public Links to Resumable Direct Links or permalinks. These permalinks will work as long as the file on your drive exists.
+GD-Resume is a free & open source (portable) software tool designed to convert Google Drive Public Links to Resumable Direct Links or permalinks. These permalinks will work as long as the file on your drive exists.
   
 <img src=https://raw.githubusercontent.com/Rushikesh-Malave-175/GD-Resume/main/Screenshot.jpeg>
   
@@ -11,7 +11,7 @@ GD-Resume is a free & open source software tool designed to convert Google Drive
 * Compatible with command line progams like **[Aria2c](https://aria2.github.io/), wget or curl** which require a **Direct link**
   
 ## Getting Started  
-* Download the latest version (.exe) from [releases](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest)  
+* Download the latest version (.exe - portable) from [releases](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest)  
 * Simply run it.  
 * You can paste the public link in to the first box and hit 'generate' to create the new link.  
 * You can also copy the generated link using the 'copy to clipboard' button  
