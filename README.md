@@ -23,7 +23,7 @@ GD-Resume is a free & open source (portable) software tool designed to convert G
 
 ## Contact and Support
 * For questions, suggestions, comments or discussions, please contact me via [Issues](https://github.com/Rushikesh-Malave-175/GD-Resume/issues) or [Discussions](https://github.com/Rushikesh-Malave-175/GD-Resume/discussions) or for any important or serious discussions you can mail me [here.](mailto:iamrm180@gmail.com) (Kindly do not spam)
-* Buy me a cup of coffee [here](https://www.buymeacoffee.com/rushikesh_m_175)
+* If you liked the project you can buy me a cup of coffee [here](https://www.buymeacoffee.com/rushikesh_m_175)
   
 ## Disclaimer
 Google Drive & the Google drive logo are propreitory products of Google Inc. and its subsidiaries. All the necessary and respective copyright and credits go to their respective owners. Thank you.
