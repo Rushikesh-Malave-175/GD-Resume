@@ -15,9 +15,9 @@ GD-Resume is a free & open source (portable) software tool designed to convert G
 * Linux/mac users can download the .py file from [here](https://raw.githubusercontent.com/Rushikesh-Malave-175/GD-Resume/main/Source/GD-Resume-latest-Source.py)
 * Simply run it.  
 * You can paste the public link in to the first box and hit 'generate' to create the new link.  
-* You can also copy the generated link using the 'copy to clipboard' button  
-* You can also directly open the generated link in your browser
-* Do star and watch this repo if you liked my application
+* You can also copy the generated link using the 'copy to clipboard' button.
+* You can also directly open the generated link in your browser.
+* Do star and watch this repo if you liked my application.
   
 ## Authors  
 [Rushikesh Malave](https://github.com/Rushikesh-Malave-175)  
