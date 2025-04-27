@@ -5,22 +5,16 @@ GD-Resume is a free & open source (portable) software tool designed to convert G
 <img src=https://raw.githubusercontent.com/Rushikesh-Malave-175/GD-Resume/main/Screenshot.jpeg>
   
 ## Features of the generated link    
-* **Resumable Downloads**: With Resumable Direct links, users can pause and resume downloads, ensuring a seamless and uninterrupted downloading experience even for large files.  
-* **Improved Download Speeds**: Resumable Direct links enable faster downloads by supporting multiple parallel connections, leading to optimized transfer rates.  
-* User-Friendly Interface: GD-Resume provides a straightforward and intuitive interface, making it easy for users to convert their Google Public Download Links without any technical expertise.  
+* **Resumable Downloads**: No longer done through google drive's temp links
+* **Improved Download Speeds*: Faster Downloads
 * Compatible with command line progams like **[Aria2c](https://aria2.github.io/), wget or curl** which require a **Direct link**
   
 ## Getting Started  
-* Download the latest version (.exe - portable) from [releases](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest)  
-* Linux/mac users can download the .py file from [here](https://raw.githubusercontent.com/Rushikesh-Malave-175/GD-Resume/main/Source/GD-Resume-latest-Source.py)
-* Simply run it.  
-* You can paste the public link in to the first box and hit 'generate' to create the new link.  
-* You can also copy the generated link using the 'copy to clipboard' button.
-* You can also directly open the generated link in your browser.
-* Do star and watch this repo if you liked my application.
-  
-## Authors  
-[Rushikesh Malave](https://github.com/Rushikesh-Malave-175)  
+- Download the latest **.exe** from [Releases](https://github.com/Rushikesh-Malave-175/GD-Resume/releases/latest).  
+- Linux/Mac users can grab the **.py file** [here](https://raw.githubusercontent.com/Rushikesh-Malave-175/GD-Resume/main/Source/GD-Resume-latest-Source.py).  
+- Run the file, paste your public link, and hit **Generate**.  
+- Copy the new link or open it directly in your browser.  
+- ⭐ If you find it useful, star and watch the repo!
 
 ## Contact and Support
 * For questions, suggestions, comments or discussions, please contact me via [Issues](https://github.com/Rushikesh-Malave-175/GD-Resume/issues) or [Discussions](https://github.com/Rushikesh-Malave-175/GD-Resume/discussions) or for any important or serious discussions you can mail me [here.](mailto:iamrm180@gmail.com) (Kindly do not spam)
